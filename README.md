@@ -13,22 +13,25 @@ I enjoy the fast-paced energy of **startups** and am currently diving into **Clo
 **Currently Working On**  
 - Project-HERO  
 
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer:
+
+class mibha:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Mithun Bharadhwaj"
+        self.role = "Student"
+        self.language_spoken = ["Eng", "and more!"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = mibha()
 me.say_hi()
+```
 
 **Let’s build something impactful together!**  
 
