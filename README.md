@@ -2,17 +2,6 @@
 
 **`Engineering Tomorrow, Today 🚀`**  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mibha.mibha)
-
-**About Me**  
-Hi, I’m Mithun — a **curious learner** exploring how to build scalable systems and impactful tools.  
-I enjoy the fast-paced energy of **startups** and am currently diving into **Cloud, DevOps, AI, and Open-source projects** to sharpen my skills and create meaningful solutions.  
-
-
-
-**Currently Working On**  
-- Project-HERO  
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -32,6 +21,12 @@ class mibha:
 me = mibha()
 me.say_hi()
 ```
+**About Me**  
+Hi, I’m Mithun — a **curious learner** exploring how to build scalable systems and impactful tools.  
+I enjoy the fast-paced energy of **startups** and am currently diving into **Cloud, DevOps, AI, and Open-source projects** to sharpen my skills and create meaningful solutions.  
+
+**Currently Working On**  
+- Project-HERO  
 
 **Let’s build something impactful together!**  
 
