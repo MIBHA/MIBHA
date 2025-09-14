@@ -11,7 +11,7 @@ I enjoy the fast-paced energy of **startups** and am currently diving into **Clo
 ---
 
 **Currently Working On**  
-- 🤖 **AI-Powered DevOps Co-Pilot** → Integrates with CI/CD pipelines for **vulnerability detection**, **Docker/Kubernetes optimization**, and **automated alerts**.  
+- Project-HERO  
 
 ---
 
