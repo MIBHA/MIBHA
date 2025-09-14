@@ -26,7 +26,7 @@ Hi, I’m Mithun — a **curious learner** exploring how to build scalable syste
 I enjoy the fast-paced energy of **startups** and am currently diving into **Cloud, DevOps, AI, and Open-source projects** to sharpen my skills and create meaningful solutions.  
 
 **Currently Working On**  
-- Project-HERO  
+- Project-HERO 
 
 **Let’s build something impactful together!**  
 
