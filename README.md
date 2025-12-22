@@ -22,8 +22,8 @@ me = mibha()
 me.say_hi()
 ```
 **About Me**  
-Hi, I’m Mithun — a **curious learner** exploring how to build scalable systems and impactful tools.  
-I enjoy the fast-paced energy and am currently diving into **Cloud, DevOps, AI, and Open-source projects** to sharpen my skills and create meaningful solutions.
+Hi, I’m Mithun Bharadhwaj Engineering Student | AI/ML & Cloud | Python, Docker, AWS  
+I enjoy the fast-paced energy and am currently diving into **Cloud, DevOps, AI, and Open source projects** to sharpen my skills and create meaningful solutions.
 
 **Let’s build something impactful together!**  
 
