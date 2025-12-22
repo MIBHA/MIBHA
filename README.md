@@ -23,7 +23,7 @@ me.say_hi()
 ```
 **About Me**  
 Hi, I’m Mithun Bharadhwaj Engineering Student | AI/ML & Cloud | Python, Docker, AWS  
-I enjoy the fast-paced energy and am currently diving into **Cloud, DevOps, AI, and Open source projects** to sharpen my skills and create meaningful solutions.
+I code. I program. I love learning and building algorithms, learning new technologies and techniques, and a student of life.
 
 **Let’s build something impactful together!**  
 
