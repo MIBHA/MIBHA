@@ -22,8 +22,7 @@ me = mibha()
 me.say_hi()
 ```
 **About Me**  
-Hi, I’m Mithun Bharadhwaj Engineering Student | AI/ML & Cloud | Python, Docker, AWS  
-I code. I program. I love learning and building algorithms, learning new technologies and techniques, and a student of life.
+Hi, I’m Mithun Bharadhwaj Engineering Student | AI/ML & Cloud | Python, Docker, AWS 
 
 **Let’s build something impactful together!**  
 
